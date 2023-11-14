@@ -9,7 +9,7 @@ app.use(cors())
 // Define a route for the root path
 app.get('/', (req, res) => {
   // Send a "Hello, World!" response
-  res.send('Hello, World!');
+  res.send('Hello, World! with docker compose');
 });
 
 // Set the server to listen on port 3000

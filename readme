@@ -1,0 +1,2 @@
+docker run --name myapp_c_nodemon -p 4000:4000 --rm -v C:\Users\tchisama\github\learn\docker\api:/app myapp:myapp_c_nodemon
+
